@@ -53,7 +53,7 @@ const Navbar = () => {
             Blog
         </Link>
 
-        <Link to ="/"className = "hover:underline" >
+        <Link to ="/plantbot"className = "hover:underline" >
             Ask PlantBot
         </Link>
 

@@ -14,6 +14,8 @@ import About from './pages/About';
 
 
 
+
+
 const App = () => {
 const [order, setOrder] = useState(null);
 
@@ -30,6 +32,9 @@ const [order, setOrder] = useState(null);
              <Route path="/about" element={<About />} />
 
 <Route path="/faq" element={<Faq />} />
+
+
+
 
 
 
